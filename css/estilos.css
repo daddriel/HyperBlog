@@ -3,3 +3,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: crimson;
 }
+.cabecera{
+    margin: 0 auto;
+    padding: 0 20px;
+    color: white;
+    box-shadow: 0px 10px 18px 0px rgba(0,0,0,0.75);
+    background-color: crimson;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
